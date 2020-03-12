@@ -13,11 +13,6 @@ Iterns have basically only theoretical knowledge and no work experience. In this
  - 0 - 6 Months
 #### Salary
  - 0 - 200 EUR
-#### Will face one of this Test Task
- - TestTask 1
- - TestTask 2
- - TestTask 3
-
 #### Vision
 Trainee need very close supervision. Often the supervisor of a trainee is called a baby sitter.
 
@@ -43,10 +38,6 @@ The main issue is that they overlook the larger context, perhaps considering it 
  - 1- 3 Years
 #### Salary
  - 300 - 700 EUR
-#### Will face one of this Test Task
- - TestTask 1
- - TestTask 2
- - TestTask 3
 #### Vision
 Juniors need close supervision. They need strong mentoring to grow their skills, because the main problem with juniors is that they are code-focused, rather than development-focused. This prevents them from getting the big picture.
 
@@ -85,10 +76,6 @@ Junior devs with generally more than three years of experience can leverage thei
  - 3 - 5 Years
 #### Salary
  - 750 - 1500 EUR
-#### Will face one of this Test Task
- - TestTask 1
- - TestTask 2
- - TestTask 3
 #### Vision
 A lot of mid-level devs fall under the Dunning-Kruger effect, which hampers their further career growth.  This psychological phenomenon describes what a dangerous thing a little knowledge can actually be. Being self-assured, developers may tend to overestimate their skills, which impedes their progress. That said, this condition is a big concern in software development. While this cognitive bias can happen to workers on every seniority level, mids are most vulnerable to it.
 ## Senior Developer
@@ -129,9 +116,5 @@ Developers with deep specialized knowledge and exhaustive experience that allow 
  - 5+ Years
 #### Salary
  - 1550 - 3000 EUR
-#### Will face one of this Test Task
- - TestTask 1
- - TestTask 2
- - TestTask 3
 #### Vision
 Seniors see the final goal — the problems that the finished application must solve. A long-term vision is a crucial point in bringing value to the end-user.
